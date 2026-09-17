@@ -1,0 +1,14 @@
+produto_id,produto,categoria,preco
+P101,Teclado,Eletronicos,189.50
+P102,Mouse,Eletronicos,99.90
+P103,Monitor,Eletronicos,1299.00
+P104,Cadeira,Moveis,699.90
+P105,Mesa,Moveis,899.90
+P106,Luminaria,Decoracao,89.90
+P107,Cafeteira,Eletroportateis,289.00
+P108,Fone Bluetooth,Eletronicos,149.90
+P109,Mochila,Acessorios,179.90
+P110,Caderno,Papelaria,24.90
+P111,Webcam,Eletronicos,259.00
+P112,Suporte para Notebook,Acessorios,119.90
+

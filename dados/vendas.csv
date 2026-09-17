@@ -1,0 +1,42 @@
+venda_id,data,filial,vendedor,categoria,produto,quantidade,preco_unitario,desconto_percentual,forma_pagamento
+V001,2025-01-03,Centro,Ana,Eletronicos,Fone Bluetooth,2,149.90,5,Pix
+V002,2025-01-04,Norte,Bruno,Casa,Cafeteira,1,289.00,0,Cartao
+V003,2025-01-05,Sul,Carla,Escritorio,Cadeira,2,699.90,10,Cartao
+V004,2025-01-07,Centro,Diego,Eletronicos,Teclado,3,189.50,0,Pix
+V005,2025-01-09,Norte,Ana,Escritorio,Caderno,10,24.90,5,Dinheiro
+V006,2025-01-12,Sul,Bruno,Casa,Liquidificador,2,219.00,8,Cartao
+V007,2025-01-15,Centro,Carla,Eletronicos,Monitor,1,1299.00,12,Boleto
+V008,2025-01-18,Norte,Diego,Casa,Jogo de Panelas,2,459.90,0,Pix
+V009,2025-01-22,Sul,Ana,Escritorio,Caneta,20,5.50,0,Dinheiro
+V010,2025-01-25,Centro,Bruno,Eletronicos,Mouse,4,99.90,5,Cartao
+V011,2025-02-02,Norte,Carla,Casa,Air Fryer,1,549.00,10,Pix
+V012,2025-02-04,Sul,Diego,Escritorio,Mesa,1,899.90,0,Boleto
+V013,2025-02-08,Centro,Ana,Eletronicos,Webcam,2,259.00,5,Cartao
+V014,2025-02-11,Norte,Bruno,Escritorio,Mochila,3,179.90,0,Pix
+V015,2025-02-14,Sul,Carla,Casa,Ferro de Passar,2,139.00,15,Cartao
+V016,2025-02-18,Centro,Diego,Eletronicos,Caixa de Som,2,329.90,8,Pix
+V017,2025-02-21,Norte,Ana,Casa,Aspirador,1,749.00,5,Boleto
+V018,2025-02-24,Sul,Bruno,Escritorio,Luminaria,4,89.90,0,Cartao
+V019,2025-02-26,Centro,Carla,Eletronicos,SSD 1TB,2,489.00,10,Pix
+V020,2025-02-28,Norte,Diego,Casa,Chaleira,3,159.90,0,Dinheiro
+V021,2025-03-03,Sul,Ana,Eletronicos,Fone Bluetooth,3,149.90,5,Pix
+V022,2025-03-06,Centro,Bruno,Casa,Cafeteira,2,289.00,10,Cartao
+V023,2025-03-09,Norte,Carla,Escritorio,Cadeira,1,699.90,0,Boleto
+V024,2025-03-12,Sul,Diego,Eletronicos,Teclado,2,189.50,5,Pix
+V025,2025-03-15,Centro,Ana,Escritorio,Caderno,15,24.90,0,Dinheiro
+V026,2025-03-18,Norte,Bruno,Casa,Liquidificador,1,219.00,0,Cartao
+V027,2025-03-20,Sul,Carla,Eletronicos,Monitor,2,1299.00,15,Cartao
+V028,2025-03-22,Centro,Diego,Casa,Jogo de Panelas,1,459.90,5,Pix
+V029,2025-03-25,Norte,Ana,Escritorio,Caneta,30,5.50,0,Dinheiro
+V030,2025-03-28,Sul,Bruno,Eletronicos,Mouse,5,99.90,8,Cartao
+V031,2025-04-02,Centro,Carla,Casa,Air Fryer,2,549.00,12,Pix
+V032,2025-04-05,Norte,Diego,Escritorio,Mesa,1,899.90,10,Boleto
+V033,2025-04-08,Sul,Ana,Eletronicos,Webcam,3,259.00,0,Cartao
+V034,2025-04-11,Centro,Bruno,Escritorio,Mochila,2,179.90,5,Pix
+V035,2025-04-14,Norte,Carla,Casa,Ferro de Passar,4,139.00,0,Cartao
+V036,2025-04-17,Sul,Diego,Eletronicos,Caixa de Som,1,329.90,0,Pix
+V037,2025-04-20,Centro,Ana,Casa,Aspirador,2,749.00,10,Boleto
+V038,2025-04-23,Norte,Bruno,Escritorio,Luminaria,5,89.90,5,Cartao
+V039,2025-04-26,Sul,Carla,Eletronicos,SSD 1TB,1,489.00,0,Pix
+V040,2025-04-29,Centro,Diego,Casa,Chaleira,2,159.90,8,Dinheiro
+

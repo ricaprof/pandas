@@ -1,0 +1,29 @@
+pedido_id,cliente,data_pedido,data_prometida,data_entrega,produto,categoria,quantidade,preco_unitario,desconto_percentual,regiao,canal,transportadora,status
+E1001,Ana Lima,2025-01-03,2025-01-09,2025-01-08,Fone Bluetooth,Eletronicos,1,149.90,0,Sudeste,Site,Rapido Express,Entregue
+E1001,Ana Lima,2025-01-03,2025-01-09,2025-01-08,Capa para Celular,Acessorios,2,39.90,5,Sudeste,Site,Rapido Express,Entregue
+E1002,Bruno Costa,2025-01-05,2025-01-11,2025-01-13,Cafeteira,Casa,1,289.00,10,Sul,App,Entrega Certa,Entregue
+E1003,Carla Souza,2025-01-08,2025-01-15,2025-01-14,Cadeira,Moveis,2,699.90,5,Sudeste,Marketplace,Carga Sul,Entregue
+E1004,Diego Rocha,2025-01-12,2025-01-18,,Monitor,Eletronicos,1,1299.00,12,Nordeste,Site,Rapido Express,Cancelado
+E1005,Eduarda Alves,2025-01-15,2025-01-21,2025-01-20,Caderno,Papelaria,8,24.90,0,Norte,App,Entrega Certa,Entregue
+E1005,Eduarda Alves,2025-01-15,2025-01-21,2025-01-20,Caneta,Papelaria,12,5.50,0,Norte,App,Entrega Certa,Entregue
+E1006,Felipe Santos,2025-01-19,2025-01-25,2025-01-28,Mesa,Moveis,1,899.90,8,Sul,Site,Carga Sul,Entregue
+E1007,Gabriela Melo,2025-01-22,2025-01-29,2025-01-27,Teclado,Eletronicos,2,189.50,5,Sudeste,App,Rapido Express,Entregue
+E1008,Henrique Dias,2025-01-27,2025-02-03,2025-02-06,Air Fryer,Casa,1,549.00,0,Centro-Oeste,Marketplace,Entrega Certa,Entregue
+E1009,Ana Lima,2025-02-02,2025-02-08,2025-02-08,Webcam,Eletronicos,1,259.00,0,Sudeste,Site,Rapido Express,Entregue
+E1010,Bruno Costa,2025-02-04,2025-02-11,2025-02-10,Mochila,Acessorios,2,179.90,10,Sul,App,Carga Sul,Entregue
+E1011,Carla Souza,2025-02-08,2025-02-14,2025-02-18,Aspirador,Casa,1,749.00,5,Sudeste,Site,Entrega Certa,Entregue
+E1012,Diego Rocha,2025-02-11,2025-02-17,2025-02-16,SSD 1TB,Eletronicos,2,489.00,15,Nordeste,Marketplace,Rapido Express,Entregue
+E1012,Diego Rocha,2025-02-11,2025-02-17,2025-02-16,Mouse,Eletronicos,1,99.90,0,Nordeste,Marketplace,Rapido Express,Entregue
+E1013,Eduarda Alves,2025-02-15,2025-02-22,,Jogo de Panelas,Casa,1,459.90,5,Norte,App,Entrega Certa,Cancelado
+E1014,Felipe Santos,2025-02-18,2025-02-25,2025-02-27,Luminaria,Decoracao,3,89.90,0,Sul,Site,Carga Sul,Entregue
+E1015,Gabriela Melo,2025-02-22,2025-02-28,2025-02-27,Caixa de Som,Eletronicos,1,329.90,8,Sudeste,App,Rapido Express,Entregue
+E1016,Henrique Dias,2025-03-01,2025-03-08,2025-03-12,Cafeteira,Casa,2,289.00,10,Centro-Oeste,Marketplace,Entrega Certa,Entregue
+E1017,Ana Lima,2025-03-04,2025-03-10,2025-03-09,Cadeira,Moveis,1,699.90,0,Sudeste,Site,Carga Sul,Entregue
+E1018,Bruno Costa,2025-03-07,2025-03-14,2025-03-14,Fone Bluetooth,Eletronicos,3,149.90,5,Sul,App,Rapido Express,Entregue
+E1019,Carla Souza,2025-03-10,2025-03-17,2025-03-20,Mesa,Moveis,1,899.90,10,Sudeste,Site,Carga Sul,Entregue
+E1020,Diego Rocha,2025-03-14,2025-03-21,2025-03-19,Caderno,Papelaria,10,24.90,0,Nordeste,Marketplace,Entrega Certa,Entregue
+E1020,Diego Rocha,2025-03-14,2025-03-21,2025-03-19,Caneta,Papelaria,20,5.50,0,Nordeste,Marketplace,Entrega Certa,Entregue
+E1021,Eduarda Alves,2025-03-18,2025-03-25,2025-03-29,Monitor,Eletronicos,1,1299.00,12,Norte,App,Rapido Express,Entregue
+E1022,Felipe Santos,2025-03-22,2025-03-29,2025-03-28,Air Fryer,Casa,2,549.00,5,Sul,Site,Carga Sul,Entregue
+E1023,Gabriela Melo,2025-03-26,2025-04-02,2025-04-01,Webcam,Eletronicos,2,259.00,0,Sudeste,App,Rapido Express,Entregue
+E1024,Henrique Dias,2025-03-29,2025-04-05,,Aspirador,Casa,1,749.00,10,Centro-Oeste,Marketplace,Entrega Certa,Cancelado

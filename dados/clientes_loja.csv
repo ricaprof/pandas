@@ -1,0 +1,14 @@
+cliente_id,nome,estado,segmento
+C001,Ana Martins,SP,Pessoa Fisica
+C002,Bruno Rocha,RJ,Pessoa Fisica
+C003,Carla Nunes,MG,Pequena Empresa
+C004,Diego Lima,PR,Pessoa Fisica
+C005,Eduarda Melo,BA,Pequena Empresa
+C006,Felipe Costa,SP,Corporativo
+C007,Gabriela Dias,RJ,Pessoa Fisica
+C008,Henrique Souza,MG,Corporativo
+C009,Isabela Reis,SC,Pessoa Fisica
+C010,Joao Alves,RS,Pequena Empresa
+C011,Karen Pinto,SP,Pessoa Fisica
+C012,Lucas Gomes,PE,Corporativo
+
