@@ -59,6 +59,8 @@ print(df_quantidade)
 # - média maior ou igual a 7 e até 7 faltas: "Aprovado"
 # - caso contrário: "Reprovado"
 
+#comentario novo
+
 #Primeiro reprova todos
 df['situacao'] = "Reprovado"
 condicao = ((df['media'] >=  7 ) & ( df['faltas'] <= 7))
