@@ -32,6 +32,8 @@ df_filtrado = df_filtrado[df['nota_1'] >= 7]
 #df_filtrado = df[(df['faltas'] < 5) & (df['nota_1'] >= 7)]
 print(df_filtrado.head())
 
+df_filtrado = df[(df['faltas'] < 5) &  df['nota_1']  >= 7 ] 
+
 # TODO 7: crie a coluna media com a média aritmética de nota_1 e nota_2.
 df["media"] = (df['nota_1'] + df['nota_2']) / 2 
 df['media'] = df['media'].round(2)
@@ -42,6 +44,7 @@ print(df.head(2))
 df_sort = df.sort_values(by='media') # Crescente
 df_sort = df.sort_values(by=['media', 'aluno'], ascending=[False, True])
 print(df_sort.head(15))
+
 
 
 # TODO 9: encontre a maior nota_2, a menor nota_2 e a média geral dessa prova.
@@ -64,6 +67,8 @@ print(df_quantidade)
 #Primeiro reprova todos
 df['situacao'] = "Reprovado"
 condicao = ((df['media'] >=  7 ) & ( df['faltas'] <= 7))
+
+print(f"condicao: {condicao}")
 df.loc[condicao, 'situacao' ] = 'Aprovado'
 
 print(df.head(15))
@@ -76,4 +81,14 @@ df_aprovado = df[condicao]
 
 print(df_aprovado.head(10))
 
+df_aprovado = df_aprovado[['aluno', 'media', 'situacao']]
+
 df_aprovado.to_csv("resposta/alunos_aprovados.csv")
+
+
+df_aprovado = df[df['situacao'] == "Aprovado"]
+
+print(df_aprovado.head(10))
+
+df_aprovado.to_excel("resposta/alunos_aprovados.xlsx", index=False)
+
